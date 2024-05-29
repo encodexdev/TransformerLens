@@ -175,6 +175,11 @@ OFFICIAL_MODEL_NAMES = [
     "microsoft/phi-1_5",
     "microsoft/phi-2",
     "microsoft/Phi-3-mini-4k-instruct",
+    "microsoft/Phi-3-mini-128k-instruct",
+    "microsoft/Phi-3-small-8k-instruct",
+    "microsoft/Phi-3-small-128k-instruct",
+    "microsoft/Phi-3-medium-4k-instruct",
+    "microsoft/Phi-3-medium-128k-instruct",
     "google/gemma-2b",
     "google/gemma-7b",
     "google/gemma-2b-it",
@@ -620,6 +625,11 @@ NEED_REMOTE_CODE_MODELS = (
     "Qwen/Qwen-",
     "microsoft/phi-2",
     "microsoft/Phi-3-mini-4k-instruct",
+    "microsoft/Phi-3-mini-128k-instruct",
+    "microsoft/Phi-3-small-8k-instruct",
+    "microsoft/Phi-3-small-128k-instruct",
+    "microsoft/Phi-3-medium-4k-instruct",
+    "microsoft/Phi-3-medium-128k-instruct",
 )
 
 
